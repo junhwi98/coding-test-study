@@ -10,3 +10,4 @@ for i in range(2, num+1):
         num_list[i] = min(num_list[i], num_list[i//3]+1)
 
 print(num_list[num])
+## 잔디심기 테스트
